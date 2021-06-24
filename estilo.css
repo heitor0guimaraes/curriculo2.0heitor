@@ -1,0 +1,23 @@
+.img {
+    height: 300px;
+    width: 300px;
+    border-radius: 100%;
+}
+
+.imgmc {
+    max-width: 650px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.imglogo {
+    max-width: 35px;
+}
+
+.modo-noturno {
+    background-color: black;
+    color: snow;
+    font-family: fantasy;
+}
